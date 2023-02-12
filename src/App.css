@@ -70,8 +70,7 @@ btn{
 .button{
   appearance: none;
   border: none;
-  background-color: crimson; 
-  padding:10px;
+  background-color: crimson;
 
 }
 
@@ -81,7 +80,7 @@ btn{
 padding:10px;
 background-color: white;
 margin:10px -8px;
-width:350px;
+width:320px;
 justify-content: space-between;
 }
 
