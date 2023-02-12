@@ -33,32 +33,6 @@ padding: 20px;
   outline: none;
 }
 
-/*.btn{
-  width:50px;
-  background-color: purple;
-  padding:10px;
-  margin-left:8px;
-  border: none;
-}
-
-.button{
-  appearance: none;
-  border: none;
-  outline:none;
-  background-color: crimson;
-}
-
-.list{
-  list-style: none;
-  display: flex;
-padding:10px;
-background-color: white;
-margin:10px -8px;
-width:320px;
-  justify-content: space-between;
-  
-}*/
-
 .btn{
   width:50px;
   background-color: purple;
